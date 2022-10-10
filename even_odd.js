@@ -1,7 +1,7 @@
 // Even and Odd numbers;
-
-if(num%3==0){
-	console.log("Even");
+let num = 10;
+if(num%2==0){
+	console.log("Even Number");
 }else{
-	console.log("odd);
+	console.log("Odd Number");
 }
